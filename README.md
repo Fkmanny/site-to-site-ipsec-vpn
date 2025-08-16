@@ -4,7 +4,7 @@ This repository documents a hands-on project to configure a site-to-site IPsec V
 
 ---
 
-## **Project 3: Site-to-Site IPSEC VPN Tunnel**
+## **Project: Site-to-Site IPSEC VPN Tunnel**
 ### **Overview**
 Securely connected two branch networks (`172.16.237.0/24` and `192.168.237.0/24`) using IKEv2 with pfSense.
 
