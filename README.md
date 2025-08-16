@@ -1,6 +1,6 @@
 # Site-to-Site IPsec VPN Tunnel Configuration
 
-This repository documents a hands-on project to configure a site-to-site IPsec VPN tunnel between two Windows 10 VMs using pfSense.
+This repository documents a hands-on project to configure a site-to-site IPsec VPN tunnel between two Windows 10 VMs using pfSense(Pre-shared keys).
 
 ---
 
