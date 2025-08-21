@@ -8,6 +8,18 @@ This repository documents a hands-on project to configure a site-to-site IPsec V
 ### **Overview**
 Securely connected two branch networks (`172.16.237.0/24` and `192.168.237.0/24`) using IKEv2 with pfSense.
 
+---
+
+## Organizational Application
+
+### Importance to Companies
+This project is vital for securely connecting distributed organizational branches, ensuring seamless and encrypted data exchange over public networks. It eliminates the cost and complexity of private leased lines while providing robust security.
+
+### Use Case Scenario
+A retail chain uses this site-to-site VPN to securely transmit daily sales and inventory data between its store locations and central headquarters in real-time, protecting sensitive customer and financial information from interception.
+
+---
+
 ### **Configuration with Screenshots**
 1. **Firewall Setup**  
    - **Firewall01**:  
